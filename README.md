@@ -15,10 +15,24 @@ Esses códigos foram feitos como parte do processo de aprendizado dos fundamento
 
 Todos os exercícios foram feitos de forma prática durante as aulas e refletem minha evolução no domínio da linguagem ao longo do tempo.
 
+## 📂 Conteúdo
+
+| 📄 Arquivo         | 🧠 O que faz                                                                 |
+|--------------------|------------------------------------------------------------------------------|
+| `IdadePeso.c`      | 👤 Pede sua idade e peso, e te mostra tudo com jeitinho.                     |
+| `ImparOuPar.c`     | 🔢 Descobre se o número é imparzinho ou parzão.                              |
+| `TestePilha.c`     | 📚 Simula uma pilha com empilhar e desempilhar, bem C raiz.                  |
+| `fgets_exemplo.c`  | 🧵 Mostra como ler strings direitinho usando `fgets`.                        |
+| `idade.c`          | 👶🧓 Informa sua idade e te diz se ainda é jovem ou se já virou relíquia.    |
+| `mult.c`           | ✖️ Multiplica dois números sem frescura.                                     |
+| `mult2.c`          | ✖️✖️ Outro jeitinho de fazer a multiplicação (versão alternativa).           |
+| `teste.c`          | 🧪 Mostra variáveis, loops, `scanf`, `switch`, `if`, e até dá uns prints.   |
+| `teste2.c`         | 🧍‍♀️ Usa struct pra montar um aluno com nome, idade e peso, todo trabalhado.|
+
 ## 🛠️ Tecnologias
 
 - Linguagem **C**
-- IDEs como **Dev C++** / **VS Code**
+- **Dev C++**
 
 ## 📝 Observações
 
