@@ -1,4 +1,4 @@
-![Estudo](https://img.shields.io/badge/estudo-c-gray)
+![Estudo](https://img.shields.io/badge/linguagem-C-blue?style=flat&logo=c)
 
 # 💡 Ensinamentos de C Bruto
 > Estudo – Estrutura de Dados | 2º Semestre ADS
