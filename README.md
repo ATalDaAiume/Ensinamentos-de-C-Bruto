@@ -1,8 +1,9 @@
-![Linguagem C](https://img.shields.io/badge/linguagem-C-blue?style=flat&logo=c)
+![Estudo](https://img.shields.io/badge/linguagem-C-blue?style=flat&logo=c)
 
 # 💡 Ensinamentos de C Bruto
+> Estudo – Estrutura de Dados | 2º Semestre ADS
 
-Repositório criado para armazenar pequenos programas em **C**, desenvolvidos durante as aulas da professora **Cláudia**, como forma de estudo e prática da linguagem.
+Repositório criado para armazenar pequenos programas em **C**, desenvolvidos durante as aulas da professora **Cláudia** e **Petri**, como forma de estudo e prática da linguagem.
 
 ## 📚 Sobre
 
