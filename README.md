@@ -29,7 +29,7 @@ Todos os exercícios foram feitos de forma prática durante as aulas e refletem 
 | `teste.c`          | 🧪 Mostra variáveis, loops, `scanf`, `switch`, `if`, e até dá uns prints.   |
 | `teste2.c`         | 🧍‍♀️ Usa struct pra montar um aluno com nome, idade e peso, todo trabalhado.|
 
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias Utilizadas
 
 - Linguagem **C**
 - **Dev C++**
